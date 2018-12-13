@@ -4,7 +4,7 @@
 package Gis;
 
 /**
- * @author A Beast
+ * @author
  *
  */
 public class Game {
